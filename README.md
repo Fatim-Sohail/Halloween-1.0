@@ -36,6 +36,6 @@ This game environment was created by [Your Name]. Special thanks to the followin
 
 - [Asset Store Asset 1](https://assetstore.unity.com/?q=halloween%20themed&orderBy=1)
 - [Asset Store Asset 2](https://assetstore.unity.com/?q=halloween%20&orderBy=1)
-- Background music by (https://assetstore.unity.com/?q=halloween%20music&orderBy=1)
-- Spooky sound effects ([link_to_sounds](https://assetstore.unity.com/?q=spooky%20sounds&orderBy=1))
+- [Background music](https://assetstore.unity.com/?q=halloween%20music&orderBy=1)
+- [Spooky sound effects](https://assetstore.unity.com/?q=spooky%20sounds&orderBy=1)
 
